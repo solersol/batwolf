@@ -93,13 +93,15 @@
 	position:relative;
 }
 
-.banner-one_heading{
-	font-weight:700;
-	/* font-size: 140px; */
-	margin-bottom:80px;
-	color: black;
-	text-transform:uppercase;
+.banner-one_heading {
+    text-align: right;
+    font-weight: 700;
+    /* font-size: 140px; */
+    margin-bottom: 80px;
+    color: black;
+    text-transform: uppercase;
 }
+
 
 .banner-one_text{
 	position: relative;
@@ -147,8 +149,8 @@
 .services-one{
 	position:relative;
 	padding:100px 0px 70px;
-	background: var(--main-color);
-	background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+	background: #003773;
+	background: #003773;
 }
 
 .service-block_one{
@@ -244,8 +246,8 @@
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	transition:all 500ms ease;
-	background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+	background: #003773;
+    background: #003773;
 }
 
 .gallery-block_one-inner:hover .gallery-block_one-content:before{
@@ -395,8 +397,8 @@
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	transition:all 500ms ease;
-	background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+	background: #003773;
+    background: #003773;
 }
 
 .journal-block_one-inner:hover::before{
@@ -668,8 +670,8 @@
 	width:15px;
 	height:15px;
 	border-radius:50px;
-	background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+	background: #003773;
+    background: #003773;
 }
 
 .counter-block_one-counter{
@@ -700,8 +702,8 @@
 .stats-one_contact-inner{
 	position:relative;
 	padding:35px 35px;
-	background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+	background: #003773;
+    background: #003773;
 }
 
 .stats-one_contact-content{
@@ -780,8 +782,8 @@
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	transition:all 500ms ease;
-	background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+	background: #003773;
+    background: #003773;
 }
 
 .awards-block_one-inner:hover::before{
@@ -1164,8 +1166,8 @@
 	color:var(--white-color);
     display: inline-block;
 	text-transform:uppercase;
-    background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+    background: #003773;
+    background: #003773;
 }
 
 .contact-form .form-group button:hover{
@@ -1459,14 +1461,14 @@ a.backtop:hover {
 /* Apply animated gradient on hover */
 .team-block_one-socials a:hover {
     animation: gradient-animation 2s ease infinite;
-    transform: scale(1.1);    background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+    transform: scale(1.1);    background: #003773;
+    background: #003773;
 }
 .team-block_one-socials a:hover {
     animation: gradient-animation 2s ease infinite;
     transform: scale(1.1);
-    background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+    background: #003773;
+    background: #003773;
     transition: background 1s ease; /* Slower transition for the background */
 }
 .team-block_one-socials a {
@@ -1482,7 +1484,7 @@ a.backtop:hover {
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+    background: #003773;
     z-index: -1;
     opacity: 0; /* Initially hidden */
     transition: opacity 0.5s ease; /* Smooth transition for opacity */
@@ -1506,8 +1508,8 @@ a.backtop:hover {
 
 /* Customize scrollbar thumb */
 ::-webkit-scrollbar-thumb {
-    background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%); /* Gradient for the scrollbar thumb */
+    background: #003773;
+    background: #003773; /* Gradient for the scrollbar thumb */
     border-radius: 10px; /* Rounded corners of the scrollbar thumb */
     border: 2px solid transparent; /* Border of the scrollbar thumb */
 }

@@ -10,8 +10,8 @@
 
 .main-footer{
 	position:relative;
-	background: var(--main-color);
-    background: linear-gradient(to top, var(--main-color) 0%, var(--color-two) 100%);
+	background: #003773;
+    background: #003773;
 }
 
 .main-footer .widgets-section{
