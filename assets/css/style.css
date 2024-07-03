@@ -126,6 +126,17 @@
 	border-bottom:1px solid var(--white-color);
 }
 
+.banner-ca {
+
+	position: relative;
+	font-size: 45px;
+	font-weight: 600;
+	line-height: 40px;
+	padding-bottom:20px;
+	color: #fff;
+
+}
+
 .banner-one .down-box{
 	position:absolute;
 	left:47%;
