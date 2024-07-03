@@ -411,12 +411,8 @@ img{
 
 @font-face {
     font-family: 'Clash Display';
-    src: url('ClashDisplay-Regular.eot');
-    src: url('../fonts/ClashDisplay-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/ClashDisplay-Regular.woff2') format('woff2'),
-        url('../fonts/ClashDisplay-Regular.woff') format('woff'),
-        url('../fonts/ClashDisplay-Regular.ttf') format('truetype'),
-        url('../fonts/ClashDisplay-Regular.svg#ClashDisplay-Regular') format('svg');
+    src: url('/assets/fonts/bangers.ttf');
+    src: url(/assets/fonts/bangers.ttf);
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -425,12 +421,8 @@ img{
 
 @font-face {
     font-family: 'Clash Display';
-    src: url('ClashDisplay-Medium.eot');
-    src: url('../fonts/ClashDisplay-Medium.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/ClashDisplay-Medium.woff2') format('woff2'),
-        url('../fonts/ClashDisplay-Medium.woff') format('woff'),
-        url('../fonts/ClashDisplay-Medium.ttf') format('truetype'),
-        url('../fonts/ClashDisplay-Medium.svg#ClashDisplay-Medium') format('svg');
+	src: url(/assets/fonts/bangers.ttf);
+    src: url(/assets/fonts/bangers.ttf);
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -439,12 +431,9 @@ img{
 
 @font-face {
     font-family: 'Clash Display';
-    src: url('ClashDisplay-Semibold.eot');
-    src: url('../fonts/ClashDisplay-Semibold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/ClashDisplay-Semibold.woff2') format('woff2'),
-        url('../fonts/ClashDisplay-Semibold.woff') format('woff'),
-        url('../fonts/ClashDisplay-Semibold.ttf') format('truetype'),
-        url('../fonts/ClashDisplay-Semibold.svg#ClashDisplay-Semibold') format('svg');
+    src: url(/assets/fonts/bangers.ttf);
+    src: url(/assets/fonts/bangers.ttf);
+
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -454,12 +443,9 @@ img{
 
 @font-face {
     font-family: 'Clash Display';
-    src: url('ClashDisplay-Bold.eot');
-    src: url('../fonts/ClashDisplay-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/ClashDisplay-Bold.woff2') format('woff2'),
-        url('../fonts/ClashDisplay-Bold.woff') format('woff'),
-        url('../fonts/ClashDisplay-Bold.ttf') format('truetype'),
-        url('../fonts/ClashDisplay-Bold.svg#ClashDisplay-Bold') format('svg');
+    src: url(/assets/fonts/bangers.ttf);
+    src: url(/assets/fonts/bangers.ttf);
+
     font-weight: bold;
     font-style: normal;
     font-display: swap;
