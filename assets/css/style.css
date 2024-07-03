@@ -98,7 +98,7 @@
     font-weight: 700;
     /* font-size: 140px; */
     margin-bottom: 80px;
-    color: black;
+    color: #fff800;
     text-transform: uppercase;
 }
 
@@ -679,7 +679,7 @@
 	font-size:75px;
 	font-weight:500;
 	line-height:1em;
-	color:var(--white-color);
+	color:#fff800;
 }
 
 .counter-block_one-text{
@@ -815,7 +815,7 @@
 .awards-block_one-title{
 	position:relative;
 	font-weight:400;
-	color:var(--white-color);
+	color:#fff800;
 	text-transform:uppercase;
 }
 
